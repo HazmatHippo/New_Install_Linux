@@ -1,3 +1,6 @@
+#!!! 'xbindkeys' -> The command to start the xbindkeys assignments
+
+# start of logitech MX Master --->
 # thumb wheel up => increase volume
 "xte 'key XF86AudioRaiseVolume'"
    b:7
@@ -5,3 +8,4 @@
 # thumb wheel down => lower volume
 "xte 'key XF86AudioLowerVolume'"
    b:6
+# end of logitech MX Master <---
