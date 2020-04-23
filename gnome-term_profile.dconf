@@ -1,0 +1,17 @@
+[/]
+audible-bell=false
+background-color='rgb(0,43,54)'
+bold-color='rgb(54,255,128)'
+bold-color-same-as-fg=true
+bold-is-bright=true
+cursor-colors-set=false
+cursor-foreground-color='rgb(114,27,255)'
+default-size-columns=75
+default-size-rows=25
+font='Hack 10'
+foreground-color='rgb(255,255,255)'
+highlight-colors-set=false
+palette=['rgb(0,0,0)', 'rgb(42,212,255)', 'rgb(255,132,14)', 'rgb(235,33,255)', 'rgb(0,0,0)', 'rgb(35,106,253)', 'rgb(0,205,205)', 'rgb(255,0,76)', 'rgb(127,127,127)', 'rgb(231,255,240)', 'rgb(102,255,191)', 'rgb(203,70,255)', 'rgb(252,167,4)', 'rgb(68,128,252)', 'rgb(0,255,255)', 'rgb(255,48,97)']
+text-blink-mode='never'
+use-system-font=false
+visible-name='Gnome-term-profile_copy'
